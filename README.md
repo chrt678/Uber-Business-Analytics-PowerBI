@@ -52,6 +52,11 @@ Examines customer behavior including total riders, repeat usage, ratings, and tr
 
 ---
 
+## Dashboard Preview
+
+![Uber Dashboard](Screenshots/dashboard.png)
+
+
 ## 📁 Repository Structure
 Dataset – Excel data  
 PowerBI – PBIX dashboard file  
