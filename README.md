@@ -77,5 +77,5 @@ This dashboard helps stakeholders monitor operational efficiency, optimize vehic
 
 ## 👤 Author
 Rahul Singh  
-BCA Graduate | Aspiring Data Analyst
+| Aspiring Data Analyst
 
