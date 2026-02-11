@@ -50,11 +50,16 @@ Examines customer behavior including total riders, repeat usage, ratings, and tr
 - Repeat riders contribute majority of trips.
 - Revenue growth shows seasonal patterns.
 
----
+--- 
 
 ## Dashboard Preview
 
-![Uber Dashboard](Uber)
+![Uber Dashboard](Home.png)
+![Uber Dashboard](Overview.png)
+![Uber Dashboard](Vehicle.png)
+![Uber Dashboard](Revenue.png)
+![Uber Dashboard](Rider.png)
+
 
 
 ## 📁 Repository Structure
