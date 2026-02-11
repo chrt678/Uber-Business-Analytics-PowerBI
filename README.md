@@ -54,7 +54,7 @@ Examines customer behavior including total riders, repeat usage, ratings, and tr
 
 ## Dashboard Preview
 
-![Uber Dashboard](Uber.pbix)
+![Uber Dashboard](Uber)
 
 
 ## 📁 Repository Structure
